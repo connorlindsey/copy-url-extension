@@ -1,0 +1,39 @@
+{
+  "manifest_version": 3,
+  "name": "Copy Current Tab URL",
+  "description": "Quickly copy the current tab's URL",
+  "version": "1.0.0",
+  "icons": {
+    "16": "images/clipboard.png",
+    "128": "images/clipboard.png"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "css": [
+        "styles.css"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ],
+  "commands": {
+    "copy-url": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+U",
+        "mac": "Command+Shift+U"
+      },
+      "description": "Copy current tab's URL"
+    }
+  }
+}
