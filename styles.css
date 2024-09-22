@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@500");
 
-.toast {
+.cpy-toast {
   font-family: "Inter", sans-serif;
   position: fixed;
   top: -100px;
@@ -17,6 +17,6 @@
   z-index: 10000;
 }
 
-.toast.show {
+.cpy-toast.cpy-show {
   transform: translateY(100px);
 }

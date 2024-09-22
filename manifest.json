@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Copy Current Tab URL",
   "description": "Quickly copy the current tab's URL",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "icons": {
     "16": "images/clipboard.png",
     "128": "images/clipboard.png"

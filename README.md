@@ -1,8 +1,8 @@
 # Copy Current URL Browser Extension
 
-A browser extension to quickly copy the current tab's URL with cmd+shift+u (or ctrl+shift+u on Windows).
+A browser extension to quickly copy the current tab's URL with cmd+shift+c (or ctrl+shift+c on Windows).
 
-Inspired by one of [Arc's](https://arc.net/) [greatest features](https://x.com/joshm/status/1712163012851753375?s=20).
+Inspired by one of [Arc's](https://arc.net/) [great features](https://x.com/joshm/status/1712163012851753375?s=20).
 
 ![Demo of the screenshot copying the Tailwind CSS docs. In the top right corner is a toast with the text 'Copied Current URL'](./images/demo.png)
 
