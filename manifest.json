@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Copy Current Tab URL",
   "description": "Quickly copy the current tab's URL",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "icons": {
     "16": "images/clipboard.png",
     "128": "images/clipboard.png"
@@ -30,8 +30,8 @@
   "commands": {
     "copy-url": {
       "suggested_key": {
-        "default": "Ctrl+Shift+U",
-        "mac": "Command+Shift+U"
+        "default": "Ctrl+Shift+C",
+        "mac": "Command+Shift+C"
       },
       "description": "Copy current tab's URL"
     }
