@@ -8,7 +8,7 @@ Inspired by one of [Arc's](https://arc.net/) [great features](https://x.com/josh
 
 ## Installation
 
-The extension is available on the [Chrome web store](https://chromewebstore.google.com/detail/kjfaieigmkklodbpcnadhkmbfjapgljd/preview?hl=en&pli=1). You can also load the unpacked extension directly.
+The extension is available on the [Chrome web store](https://chromewebstore.google.com/detail/copy-current-tab-url/kjfaieigmkklodbpcnadhkmbfjapgljd). You can also load the unpacked extension directly.
 
 ## Contributing
 
